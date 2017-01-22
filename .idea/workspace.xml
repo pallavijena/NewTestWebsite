@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2387c5f-5b36-407e-9f40-07baa1b1110e" name="Default" comment="" />
+    <list default="true" id="b2387c5f-5b36-407e-9f40-07baa1b1110e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dummy.groovy" afterPath="$PROJECT_DIR$/Dummy.groovy" />
+    </list>
     <ignored path="NewTestWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/Dummy.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -400,7 +402,7 @@
     <entry file="file://$PROJECT_DIR$/Dummy.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding />
         </state>
       </provider>
